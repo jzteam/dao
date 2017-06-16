@@ -1,4 +1,4 @@
-package cn.jzteam.dao.entity.util;
+package cn.jzteam.dao.entity.utils;
 
 import java.io.File;
 import java.net.URL;
